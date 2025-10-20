@@ -1,0 +1,13 @@
+[
+    {"workoutId": 1, "name": "Full Body", "duration": 30, "difficulty": "Medium"},
+    {"workoutId": 2, "name": "Cardio", "duration": 20, "difficulty": "Easy"},
+    {"workoutId": 3, "name": "Strength", "duration": 40, "difficulty": "Hard"},
+    {"workoutId": 4, "name": "Yoga", "duration": 25, "difficulty": "Easy"},
+    {"workoutId": 5, "name": "HIIT", "duration": 15, "difficulty": "Medium"},
+    {"workoutId": 6, "name": "Sprint", "duration": 15, "difficulty": "Hard"},
+    {"workoutId": 7, "name": "Step", "duration": 20, "difficulty": "Easy"},
+    {"workoutId": 8, "name": "Core Blast", "duration": 25, "difficulty": "Medium"},
+    {"workoutId": 9, "name": "Stretch Plus", "duration": 20, "difficulty": "Easy"},
+    {"workoutId": 10, "name": "Endurance Run", "duration": 35, "difficulty": "Hard"}
+  ]
+  

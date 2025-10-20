@@ -1,0 +1,13 @@
+[
+    {"sessionId": 1, "userId": 1, "trainerId": 1, "date": "2025-10-01", "status": "completed"},
+    {"sessionId": 2, "userId": 2, "trainerId": 2, "date": "2025-10-02", "status": "completed"},
+    {"sessionId": 3, "userId": 3, "trainerId": 3, "date": "2025-10-03", "status": "scheduled"},
+    {"sessionId": 4, "userId": 4, "trainerId": 4, "date": "2025-10-04", "status": "completed"},
+    {"sessionId": 5, "userId": 5, "trainerId": 5, "date": "2025-10-05", "status": "cancelled"},
+    {"sessionId": 6, "userId": 6, "trainerId": 6, "date": "2025-10-06", "status": "completed"},
+    {"sessionId": 7, "userId": 7, "trainerId": 7, "date": "2025-10-07", "status": "scheduled"},
+    {"sessionId": 8, "userId": 8, "trainerId": 8, "date": "2025-10-08", "status": "completed"},
+    {"sessionId": 9, "userId": 9, "trainerId": 9, "date": "2025-10-09", "status": "completed"},
+    {"sessionId": 10, "userId": 10, "trainerId": 10, "date": "2025-10-10", "status": "scheduled"}
+  ]
+  

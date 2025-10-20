@@ -1,0 +1,13 @@
+[
+    {"userId": 1, "name": "Alice", "age": 25, "email": "alice@example.com"},
+    {"userId": 2, "name": "Bob", "age": 30, "email": "bob@example.com"},
+    {"userId": 3, "name": "Carla", "age": 27, "email": "carla@example.com"},
+    {"userId": 4, "name": "David", "age": 34, "email": "david@example.com"},
+    {"userId": 5, "name": "Eva", "age": 29, "email": "eva@example.com"},
+    {"userId": 6, "name": "Jack", "age": 30, "email": "jack@example.com"},
+    {"userId": 7, "name": "Ali", "age": 43, "email": "ali@example.com"},
+    {"userId": 8, "name": "Natalie", "age": 31, "email": "natalie@example.com"},
+    {"userId": 9, "name": "Jasmin", "age": 24, "email": "jasmin@example.com"},
+    {"userId": 10, "name": "Trevor", "age": 37, "email": "trevor@example.com"}
+  ]
+  

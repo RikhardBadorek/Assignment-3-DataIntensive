@@ -1,0 +1,13 @@
+[
+    {"membershipId": 1, "userId": 1, "type": "Basic", "startDate": "2025-01-01", "endDate": "2025-12-31"},
+    {"membershipId": 2, "userId": 2, "type": "Premium", "startDate": "2025-02-01", "endDate": "2026-01-31"},
+    {"membershipId": 3, "userId": 3, "type": "Basic", "startDate": "2025-03-01", "endDate": "2026-02-28"},
+    {"membershipId": 4, "userId": 4, "type": "Basic", "startDate": "2025-04-01", "endDate": "2026-03-31"},
+    {"membershipId": 5, "userId": 5, "type": "Premium", "startDate": "2025-05-01", "endDate": "2026-04-30"},
+    {"membershipId": 6, "userId": 21, "type": "Elite", "startDate": "2025-06-10", "endDate": "2026-06-09"},
+    {"membershipId": 7, "userId": 22, "type": "Basic", "startDate": "2025-07-15", "endDate": "2026-07-14"},
+    {"membershipId": 8, "userId": 23, "type": "Gold", "startDate": "2025-08-05", "endDate": "2026-08-04"},
+    {"membershipId": 9, "userId": 24, "type": "Premium", "startDate": "2025-09-01", "endDate": "2026-08-31"},
+    {"membershipId": 10, "userId": 25, "type": "VIP", "startDate": "2025-10-20", "endDate": "2026-10-19"}
+  ]
+  

@@ -1,0 +1,13 @@
+[
+    {"trainerId": 1, "name": "Mark", "specialty": "Strength", "experience": 5},
+    {"trainerId": 2, "name": "Julia", "specialty": "Cardio", "experience": 4},
+    {"trainerId": 3, "name": "Tom", "specialty": "CrossFit", "experience": 6},
+    {"trainerId": 4, "name": "Laura", "specialty": "Yoga", "experience": 3},
+    {"trainerId": 5, "name": "Alex", "specialty": "Pilates", "experience": 2},
+    {"trainerId": 6, "name": "Olivia", "specialty": "Dance", "experience": 6},
+    {"trainerId": 7, "name": "Noah", "specialty": "Endurance", "experience": 5},
+    {"trainerId": 8, "name": "Liam", "specialty": "Strength", "experience": 8},
+    {"trainerId": 9, "name": "Emma", "specialty": "Yoga", "experience": 3},
+    {"trainerId": 10, "name": "Ava", "specialty": "CrossFit", "experience": 7}
+  ]
+  
