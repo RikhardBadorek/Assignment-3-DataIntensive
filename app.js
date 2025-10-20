@@ -33,9 +33,10 @@ async function main() {
 
     while(dbChoice !== '0') {
         console.log("Databases:");
-        console.log(`${DB1_URI}`);
-        console.log(`${DB2_URI}`);
-        console.log(`${DB3_URI}`);
+        console.log("1: fitnessDB1");
+        console.log("2: fitnessDB2");
+        console.log("3: fitnessDB3");
+        
 
         dbChoice = await askQuestion("Select database (1, 2, 3, 4 to restore data or 0 to end): ");
 
@@ -84,7 +85,8 @@ async function main() {
             console.log(`Connected to database: ${dbChoice}`);
 
             console.log("\nCollections:");
-            dbCollections.forEach(col => console.log(`- ${col}`));
+
+            dbCollections.forEach((col, index) => console.log(`${index + 1}. ${col}`));
 
             const colChoice = await askQuestion("Select collection (1-5): ");
             const colIndex = parseInt(colChoice) - 1;
